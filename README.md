@@ -12,6 +12,7 @@ Demo [**herge**](https://tetris-rxjs.vercel.app)
 ## Usage
 
 Setup (requires node.js):
+nolaaa
 
 ```
 > npm install 
