@@ -16,7 +16,7 @@ import {
 import { Block, BlockPosition, GameEvent, State } from "./types";
 
 /**
- * The initial state of the game.
+ * The initial state of the game.hhii
  */
 export const initialState: State = {
   gameEnd: false,
