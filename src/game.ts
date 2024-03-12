@@ -30,7 +30,7 @@ export const initialState: State = {
  * Updates the game state for each tick (game cycle).
  * See the functions it invokes for more details.
  * @param state - The current game state.
- * @returns The new game state after the tick.
+ * @returns The new game state after the tick.hkjnn
  */
 export const tick = (state: State): State => {
   // This is needed because the game end status is set to true in the tick function after the game has been restarted and we need to reset that to stop rendering gameOver box
